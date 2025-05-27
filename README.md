@@ -34,7 +34,7 @@
 
 
 > 🎮 一個讓用戶在 LINE 上即時體驗遊戲的聊天機器人，支援多種互動玩法與即時回饋。  
-> 技術：Python、Flask、Line Messaging API、Docker  
+> 技術：Python、Django、Line Messaging API、Docker  
 > 🔒 **Private repository** — 歡迎[遊戲官網](https://linehero.tw)或[私訊詢問](https://www.linkedin.com/in/yi-hsuan-lin-b064851b0)更多細節！
 
 ---
