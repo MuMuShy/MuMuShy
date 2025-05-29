@@ -25,9 +25,11 @@
 
 ## 🌟 Featured Project
 
-[![IssueRadar](https://img.shields.io/badge/issueRadar-Web-000?style=flat&logo=unity&logoColor=white)]([https://github.com/MuMuShy/issueRadar)
+[![IssueRadar](https://img.shields.io/badge/IssueRadar-AI%20GitHub%20Issue%20Finder-000?style=flat&logo=github&logoColor=white)](https://github.com/MuMuShy/issueRadar)
 
-> 透過AI與github api透過自然語言快速找到所有公開的issue 讓使用者可以依照自己擅長的技能貢獻開源項目 [link](https://issueradar.ai)
+> 🤖 透過 AI + GitHub API，讓使用者用自然語言快速搜尋公開 issue，依據技能貢獻開源項目  
+> 🧠 技術關鍵字：AI、自然語言理解、GitHub API、搜尋排序  
+> 🌐 [試用看看](https://issueradar.ai)
 
 ---
 
