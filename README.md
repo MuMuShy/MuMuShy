@@ -25,6 +25,12 @@
 
 ## 🌟 Featured Project
 
+[![IssueRadar](https://img.shields.io/badge/IssueRadar-Web-000?style=flat&logo=unity&logoColor=white)]([https://github.com/MuMuShy/Unity2Dtutorial](https://github.com/MuMuShy/issueRadar))
+
+> 透過AI與github api透過自然語言快速找到所有公開的issue 讓使用者可以依照自己擅長的技能貢獻開源項目 [link](https://issueradar.ai)
+
+---
+
 [![Unity2Dtutorial](https://img.shields.io/badge/Unity2D-Tutorial-000?style=flat&logo=unity&logoColor=white)](https://github.com/MuMuShy/Unity2Dtutorial)
 
 > 一份 Unity 2D 學習筆記與實戰教學，歡迎參考與指教！
