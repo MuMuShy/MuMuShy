@@ -33,13 +33,20 @@
 
 ---
 
+[![promptfighters](https://img.shields.io/badge/promptfighters-AI%20Prompt%20Battle%20Platform-000?style=flat&logo=openai&logoColor=white)](https://github.com/MuMuShy/PromptFighters)
+
+> 🥊 一個讓玩家創建自己的ai腳色進行戰鬥的遊戲
+> 🧠 技術關鍵字：AI、Prompt Engineering、互動遊戲設計、排行榜  
+> 🌐 [線上體驗](https://promptfighters.app)
+
+---
+
 [![Unity2Dtutorial](https://img.shields.io/badge/Unity2D-Tutorial-000?style=flat&logo=unity&logoColor=white)](https://github.com/MuMuShy/Unity2Dtutorial)
 
 > 一份 Unity 2D 學習筆記與實戰教學，歡迎參考與指教！
 
 ---
 [![LineHero](https://img.shields.io/badge/LineHero.tw-遊戲LineBot-06C755?style=flat&logo=line&logoColor=white)](https://linehero.tw)
-
 
 > 🎮 一個讓用戶在 LINE 上即時體驗遊戲的聊天機器人，支援多種互動玩法與即時回饋。  
 > 技術：Python、Django、Line Messaging API、Docker  
